@@ -8,4 +8,4 @@ RIVERS: https://data.hydrosheds.org/file/HydroRIVERS/HydroRIVERS_v10_eu_shp.zip
 BASINS: https://data.hydrosheds.org/file/HydroBASINS/standard/hybas_eu_lev04_v1c.zip
 
 
-![alt text](https://github.com/JuanGaleano/CORESIDENCE/blob/main/CORESIDENCE.png)   
+![alt text](https://github.com/JuanGaleano/rivers_spain/blob/main/Rivers_4.png)   
