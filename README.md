@@ -6,3 +6,6 @@ First you need to download spatial data about both the Rivers of europe and the 
 
 RIVERS: https://data.hydrosheds.org/file/HydroRIVERS/HydroRIVERS_v10_eu_shp.zip         
 BASINS: https://data.hydrosheds.org/file/HydroBASINS/standard/hybas_eu_lev04_v1c.zip
+
+
+![alt text](https://github.com/JuanGaleano/CORESIDENCE/blob/main/CORESIDENCE.png)   
